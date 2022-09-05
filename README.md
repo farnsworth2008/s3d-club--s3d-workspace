@@ -6,5 +6,5 @@ Execute the following commands after cloning this module to clone the
 submodules that define each of the Terraform modules.
 
 ```bash
-git submoudle update --init
+git submodule update --init
 ```
