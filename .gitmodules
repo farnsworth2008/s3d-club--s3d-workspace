@@ -1,0 +1,6 @@
+[submodule "tutorial"]
+	path = tutorial
+	url = https://github.com/s3d-group/s3d-tutorial.git
+[submodule "terraform-modules"]
+	path = terraform-modules
+	url = https://github.com/s3d-group/s3d-terraform-modules.git
