@@ -10,3 +10,15 @@
 [submodule "github.com/aws/aws-sdk-go-v2"]
 	path = github.com/aws/aws-sdk-go-v2
 	url = https://github.com/aws/aws-sdk-go-v2.git
+[submodule "github.com/s3d-group/terraform-aws-cloudfront"]
+	path = github.com/s3d-group/terraform-aws-cloudfront
+	url = https://github.com/s3d-group/terraform-aws-cloudfront.git
+[submodule "github.com/s3d-group/terraform-aws-ec2-dev-instance"]
+	path = github.com/s3d-group/terraform-aws-ec2-dev-instance
+	url = https://github.com/s3d-group/terraform-aws-ec2-dev-instance.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted"]
+	path = github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted
+	url = https://github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-ssh"]
+	path = github.com/s3d-group/terraform-aws-sg-for-ssh
+	url = https://github.com/s3d-group/terraform-aws-sg-for-ssh.git
