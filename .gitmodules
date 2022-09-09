@@ -4,3 +4,9 @@
 [submodule "terraform-modules"]
 	path = terraform-modules
 	url = https://github.com/s3d-group/s3d-terraform-modules.git
+[submodule "go/s3d-cli"]
+	path = github.com/s3d-group/s3d-cli
+	url = https://github.com/s3d-group/s3d-cli.git
+[submodule "github.com/aws/aws-sdk-go-v2"]
+	path = github.com/aws/aws-sdk-go-v2
+	url = https://github.com/aws/aws-sdk-go-v2.git
