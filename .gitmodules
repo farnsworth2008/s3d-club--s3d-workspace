@@ -1,0 +1,33 @@
+[submodule "tutorial"]
+	path = github.com/s3d-group/s3d-tutorial
+	url = https://github.com/s3d-group/s3d-tutorial.git
+[submodule "terraform-modules"]
+	path = terraform-modules
+	url = https://github.com/s3d-group/s3d-terraform-modules.git
+[submodule "go/s3d-cli"]
+	path = github.com/s3d-group/s3d-cli
+	url = https://github.com/s3d-group/s3d-cli.git
+[submodule "github.com/aws/aws-sdk-go-v2"]
+	path = github.com/aws/aws-sdk-go-v2
+	url = https://github.com/aws/aws-sdk-go-v2.git
+[submodule "github.com/s3d-group/terraform-aws-cloudfront"]
+	path = github.com/s3d-group/terraform-aws-cloudfront
+	url = https://github.com/s3d-group/terraform-aws-cloudfront.git
+[submodule "github.com/s3d-group/terraform-aws-ec2-dev-instance"]
+	path = github.com/s3d-group/terraform-aws-ec2-dev-instance
+	url = https://github.com/s3d-group/terraform-aws-ec2-dev-instance.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted"]
+	path = github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted
+	url = https://github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-ssh"]
+	path = github.com/s3d-group/terraform-aws-sg-for-ssh
+	url = https://github.com/s3d-group/terraform-aws-sg-for-ssh.git
+[submodule "github.com/s3d-group/s3d-aws-account"]
+	path = github.com/s3d-group/s3d-aws-account
+	url = https://github.com/s3d-group/s3d-aws-account.git
+[submodule "github.com/aws/go-git"]
+	path = github.com/go-git/go-git
+	url = https://github.com/go-git/go-git.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-vnc"]
+	path = github.com/s3d-group/terraform-aws-sg-for-vnc
+	url = https://github.com/s3d-group/terraform-aws-sg-for-vnc.git
