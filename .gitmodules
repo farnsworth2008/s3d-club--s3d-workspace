@@ -28,3 +28,6 @@
 [submodule "github.com/aws/go-git"]
 	path = github.com/go-git/go-git
 	url = https://github.com/go-git/go-git.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-vnc"]
+	path = github.com/s3d-group/terraform-aws-sg-for-vnc
+	url = git@github.com:s3d-group/terraform-aws-sg-for-vnc.git
