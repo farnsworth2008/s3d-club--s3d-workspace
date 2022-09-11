@@ -11,7 +11,7 @@
 	path = github.com/s3d-group/terraform-aws-cloudfront
 	url = https://github.com/s3d-group/terraform-aws-cloudfront.git
 [submodule "github.com/s3d-group/terraform-aws-ec2_dev_instance"]
-	path = github.com/s3d-group/terraform-aws_ec2-dev_instance
+	path = github.com/s3d-group/terraform-aws-ec2_dev_instance
 	url = https://github.com/s3d-group/terraform-aws-ec2_dev_instance.git
 [submodule "github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted"]
 	path = github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted
