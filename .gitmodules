@@ -31,3 +31,6 @@
 [submodule "github.com/s3d-group/terraform-external-changelog-version"]
 	path = github.com/s3d-group/terraform-external-changelog-version
 	url = https://github.com/s3d-group/terraform-external-changelog-version.git
+[submodule "github.com/s3d-group/s3d-tutorial-start"]
+	path = github.com/s3d-group/s3d-tutorial-start
+	url = https://github.com/s3d-group/s3d-tutorial-start.git
