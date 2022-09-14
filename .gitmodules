@@ -8,7 +8,7 @@
 	path = github.com/s3d-group/s3d-cli
 	url = https://github.com/s3d-group/s3d-cli.git
 [submodule "github.com/s3d-group/terraform-aws-cloudfront"]
-	path = github.com/s3d-group/terraform-aws-cloudfront
+	path = github.com/s3d-group/terraform-aws-site
 	url = https://github.com/s3d-group/terraform-aws-cloudfront.git
 [submodule "github.com/s3d-group/terraform-aws-ec2_dev_instance"]
 	path = github.com/s3d-group/terraform-aws-ec2_dev_instance
