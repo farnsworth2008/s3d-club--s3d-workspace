@@ -14,7 +14,7 @@
 	path = github.com/s3d-group/terraform-aws-ec2
 	url = https://github.com/s3d-group/terraform-aws-ec2_dev_instance.git
 [submodule "github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted"]
-	path = github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted
+	path = github.com/s3d-group/terraform-aws-sg_egress_open
 	url = https://github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted.git
 [submodule "github.com/s3d-group/terraform-aws-sg-for-ssh"]
 	path = github.com/s3d-group/terraform-aws-sg-for-ssh
