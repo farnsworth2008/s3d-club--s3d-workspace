@@ -37,3 +37,6 @@
 [submodule "github.com/s3d-group/terraform-aws-acm"]
 	path = github.com/s3d-group/terraform-aws-acm
 	url = https://github.com/s3d-club/terraform-aws-acm.git
+[submodule "github.com/s3d-group/terraform-aws-sg_ingress_ssh"]
+	path = github.com/s3d-group/terraform-aws-sg_ingress_ssh
+	url = https://github.com/s3d-club/terraform-aws-sg_ingress_ssh.git
