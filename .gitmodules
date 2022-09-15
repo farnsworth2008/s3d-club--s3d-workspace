@@ -34,3 +34,6 @@
 [submodule "github.com/s3d-group/s3d-keep-a-changelog"]
 	path = github.com/s3d-group/s3d-keep-a-changelog
 	url = https://github.com/s3d-club/s3d-keep-a-changelog.git
+[submodule "github.com/s3d-group/terraform-aws-acm"]
+	path = github.com/s3d-group/terraform-aws-acm
+	url = https://github.com/s3d-club/terraform-aws-acm.git
