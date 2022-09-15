@@ -14,17 +14,14 @@
 	path = github.com/s3d-group/terraform-aws-ec2
 	url = https://github.com/s3d-group/terraform-aws-ec2_dev_instance.git
 [submodule "github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted"]
-	path = github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted
+	path = github.com/s3d-group/terraform-aws-sg_egress_open
 	url = https://github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted.git
 [submodule "github.com/s3d-group/terraform-aws-sg-for-ssh"]
-	path = github.com/s3d-group/terraform-aws-sg-for-ssh
+	path = github.com/s3d-group/terraform-aws-sg_egress_open/terraform-aws-sg-for-ssh
 	url = https://github.com/s3d-group/terraform-aws-sg-for-ssh.git
 [submodule "github.com/s3d-group/s3d-aws-account"]
 	path = github.com/s3d-group/s3d-aws-account
 	url = https://github.com/s3d-group/s3d-aws-account.git
-[submodule "github.com/s3d-group/terraform-aws-sg-for-vnc"]
-	path = github.com/s3d-group/terraform-aws-sg-for-vnc
-	url = https://github.com/s3d-group/terraform-aws-sg-for-vnc.git
 [submodule "github.com/s3d-group/s3d-scripts"]
 	path = github.com/s3d-group/s3d-scripts
 	url = https://github.com/s3d-group/s3d-scripts.git
@@ -34,3 +31,12 @@
 [submodule "github.com/s3d-group/s3d-tutorial-start"]
 	path = github.com/s3d-group/s3d-tutorial-start
 	url = https://github.com/s3d-group/s3d-tutorial-start.git
+[submodule "github.com/s3d-group/s3d-keep-a-changelog"]
+	path = github.com/s3d-group/s3d-keep-a-changelog
+	url = https://github.com/s3d-club/s3d-keep-a-changelog.git
+[submodule "github.com/s3d-group/terraform-aws-acm"]
+	path = github.com/s3d-group/terraform-aws-acm
+	url = https://github.com/s3d-club/terraform-aws-acm.git
+[submodule "github.com/s3d-group/terraform-aws-sg_ingress_ssh"]
+	path = github.com/s3d-group/terraform-aws-sg_ingress_ssh
+	url = https://github.com/s3d-club/terraform-aws-sg_ingress_ssh.git
