@@ -1,7 +1,10 @@
 # Changes
 Recently completed and planned work is tracked here.
 
-## [0.1.0-718b](.)
+## [0.0.3](.)
+- Mod `s3d-flow`; automatically flow submodules
+
+## [Next](.)
 - **TODO** Add `go.s3d.club` is described on `s3d-website`
 - **TODO** Add `s3d-website/s3d-pull`
 - **TODO** Add the root `CHANGES.md` is now pulled to `s3d-website`
@@ -11,7 +14,4 @@ Recently completed and planned work is tracked here.
 - **TODO** Mod `s3d-scripts`; checks `CHANGES.md` structure 
 - **TODO** Mod `tf-aws-eks`; works! 
 - **TODO** Mod renamed `terraform-` as `tf-`
-- Mod `s3d-flow`; automatically flow submodules 
-
-## [Next](.)
 - **TODO** Add CI/CD
