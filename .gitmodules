@@ -61,3 +61,6 @@
 [submodule "s3d-init"]
 	path = init
 	url = https://github.com/s3d-club/s3d-init
+[submodule "k8-aws-auth"]
+	path = k8-aws-auth
+	url = https://github.com/s3d-club/terraform-kubernetes-aws-auth
