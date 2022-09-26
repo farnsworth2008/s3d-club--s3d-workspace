@@ -7,7 +7,7 @@ Recently completed and planned work is tracked here.
 ## [0.0.4](.)
 - Updated `README.md` and other project documents
 
-## [0.0.5](.) [0.0.6](.)
+## [0.0.5](.) [0.0.7](.)
 - Added `k8-aws-auth`
 - Updated `aws-account`, `aws-ec2`, `aws-eks`, `aws-sg-eg-open`
 - Updated `aws-sg-ig-open`, `aws-sg-ig-ssh`, `aws-site`, `aws-waf`, `cli`
