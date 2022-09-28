@@ -11,7 +11,7 @@ Recently completed and planned work is tracked here.
 - Updated `dev-setup`, `exrn-data-name-tags`, `rest-api-site-manager`
 - Updated `scripts`, `tutorial-start`, `website`
 
-## [0.0.10-1000](.)
+## [0.0.10-1001](.)
 - Completed a refactor to create `aws-site-group
 
 ## [plan-0.0.0-1000](.)
