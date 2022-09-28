@@ -64,3 +64,9 @@
 [submodule "k8-aws-auth"]
 	path = k8-aws-auth
 	url = https://github.com/s3d-club/terraform-kubernetes-aws-auth
+[submodule "aws-ecr"]
+	path = aws-ecr
+	url = https://github.com/s3d-club/terraform-aws-ecr
+[submodule "aws-site-group"]
+	path = aws-site-group
+	url = https://github.com/s3d-club/terraform-aws-site-group
