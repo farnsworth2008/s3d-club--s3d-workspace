@@ -14,7 +14,7 @@
 	path = 01-py-site-man
 	url = https://github.com/s3d-club/s3d-py-fast-api-site-manager
 [submodule "rest-api-site-manager"]
-	path = 01-go-site-man
+	path = 01-go-api
 	url = https://github.com/s3d-club/s3d-rest-api-site-manager
 [submodule "scripts"]
 	path = scripts
